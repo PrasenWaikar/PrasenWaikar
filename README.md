@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data analysis,machine learning,AI**
 
-- 📫 How to reach me **prasenwaikar@gail.com**
+- 📫 How to reach me **prasenwaikar@gmail.com**
 
 - ⚡ Fun fact **Data can talk...**
 
