@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*rs8gF282CksfyNmpqld6iw.gif)](https://PrasenWaikar.io)
-
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://PrasenWaikar.io)
 <h1 align="center">Hello_world, I'm Prasen Waikar</h1>
 <h3 align="center">Data enthusiast with a passion for uncovering insights, driven by curiosity and equipped with strong analytical and programming skills to solve real-world problems</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
