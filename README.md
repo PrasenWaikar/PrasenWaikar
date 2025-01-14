@@ -2,9 +2,9 @@
 <h1 align="center">Hello_world, I'm Prasen Waikar</h1>
 <h3 align="center">Data enthusiast with a passion for uncovering insights, driven by curiosity and equipped with strong analytical and programming skills to solve real-world problems</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930695668-M1QO5MPWD4KC6KR0B7XA/4c381-header-ml-3.gif?format=2500w">
-- 🔭 I’m currently working on **Predicting Building Energy Efficiency**
+- 🔭 I’m currently working on **Data gathering, Data wrangling & Data preprocessing**
 
-- 🌱 I’m currently learning **Data analysis,machine learning,AI**
+- 🌱 I’m currently learning **Data science methodologies, Machine learning, AI**
 
 - 📫 How to reach me **prasenwaikar@gmail.com**
 
